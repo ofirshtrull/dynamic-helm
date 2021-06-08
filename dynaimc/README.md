@@ -1,6 +1,6 @@
 ## Extra Objects
 
-This chart can deploy extra Kubernetes objects (assuming the role used by Helm can manage them). For Astronomer Cloud and Enterprise, the role permissions can be found in the [Commander role](https://github.com/astronomer/astronomer/blob/master/charts/astronomer/templates/commander/commander-role.yaml).
+This chart can deploy extra Kubernetes objects (assuming the role used by Helm can manage them).
 
 ```yaml
 extraObjects:
